@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python tokenizer.py
+python3 script/tokenizer.py
